@@ -1,4 +1,4 @@
-#cube_calculator
+# cube_calculator
 
 This program takes a number as  input and print its cube.
 
