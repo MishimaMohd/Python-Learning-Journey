@@ -1,4 +1,4 @@
-#table_calc
+# table_calc
 
 This program takes a number as an input and gives the table of that number till 10
 
