@@ -1,6 +1,12 @@
-# table_calc
+# reversetable_calculator
+This program takes a number as an input and gives reverse table starting from 10 ending at 1
 
-This program takes a number as an input and gives the table of that number till 10
+
+
+
+# forwardtable_calculator
+
+This program takes a number as an input and gives forward table of that number till 10
 
 
 
